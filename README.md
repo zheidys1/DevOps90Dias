@@ -61,8 +61,7 @@ Con DevOps, puedes:
 En resumen:
 DevOps = Desarrollo + Operaciones + Automatización + Cultura de colaboración.
 
-🎯 Desafío: ¡Linux Detectives!
-
-![Descripción de la imagen](images/mi_imagen.png)
+ 
+ 
 
 
