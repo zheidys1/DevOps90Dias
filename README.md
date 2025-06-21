@@ -62,18 +62,7 @@ En resumen:
 DevOps = Desarrollo + Operaciones + Automatización + Cultura de colaboración.
 
 
-Ejemplo:
 
-3. 🎯 Desafío: ¡Linux Detectives!
-       
- Cuánta memoria disponible tenés?
- ![Image](https://github.com/user-attachments/assets/e9226341-9dd3-422f-af62-b6825613a54c)
- 
- Qué procesos están consumiendo más recursos?
-![Image](https://github.com/user-attachments/assets/9a1d7468-477d-4716-8c18-059de78a656a)
 
-Cuánto tiempo lleva encendido tu sistema?
-![Image](https://github.com/user-attachments/assets/c82d03c1-6e75-4319-90f7-f17e49660092)
- 
 
 
